@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ctype="Workbench">
+    <Files>
+      <File FileName="Galarm/Main.cs" Line="3" Column="1" />
+      <File FileName="Galarm/MainWindow.cs" Line="502" Column="4" />
+      <File FileName="Galarm/UserAlarms.cs" Line="307" Column="118" />
+      <File FileName="Galarm/Dock.cs" Line="40" Column="24" />
+      <File FileName="Galarm/ProcessController.cs" Line="34" Column="29" />
+      <File FileName="Galarm/VolumeController.cs" Line="75" Column="28" />
+      <File FileName="Galarm/AwakeTest.cs" Line="46" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Galarm" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="AwakeTest.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" ctype="Workspace" />
+</Properties>
