@@ -1,5 +1,9 @@
 # Galarm
 
+<p align="center">
+  <img src=".github/logo.png" alt="mono-gtk-galarm logo" width="128" />
+</p>
+
 A Mono GTK# alarm clock.
 
 ## What it does
